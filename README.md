@@ -1,4 +1,4 @@
-# LeetCode-Effective-Grind
+# LeetCode-Effective-Grind :fire: 
 
 5 STEPS YOU SHOULD FOLLOW :
 * What are the most relevant problems?
