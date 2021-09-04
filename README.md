@@ -23,5 +23,6 @@ And finally number five... we touched on this a little bit already but I still t
 
 I just want to leave you with one last thought, is that it's better to make incremental changes than try and do everything at once and then give up on it. So what I would highly encourage you to do now is to pick one of these five strategies that we talked about in this video and implement it today. Just pick one strategy and start with that and then you can continue to add the other strategies as you go.
 
-[YOUTUBE VIDEO ON HOW TO EFFECTIVELY USE LEETCODE](https://youtu.be/GbyXxUDVeAo)
-![maxresdefault](https://user-images.githubusercontent.com/72177954/132033772-772be30d-813a-4f3c-ba3a-3d3e58b40f3f.jpg)
+# YOUTUBE VIDEO ON HOW TO EFFECTIVELY USE LEETCODE
+
+[![YOUTUBE VIDEO ON HOW TO EFFECTIVELY USE LEETCODE](https://img.youtube.com/vi/GbyXxUDVeAo/0.jpg)](https://www.youtube.com/watch?v=GbyXxUDVeAo)
