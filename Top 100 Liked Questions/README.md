@@ -4,5 +4,5 @@
 
 # Questions completed 
 
-- [x] 1. Two Sum
-- [ ] 2. Valid Parentheses
+:white_check_mark: 1. Two Sum </br>
+:black_square_button: 2. Valid Parentheses
