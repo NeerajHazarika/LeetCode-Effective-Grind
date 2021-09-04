@@ -6,3 +6,11 @@
 
 :white_check_mark: 1. Two Sum </br>
 :black_square_button: 2. Valid Parentheses
+
+# Concepts Learned
+
+* immutable
+* hashable
+* maps
+* dictionaries
+* use of dictionaires/maps
