@@ -4,5 +4,5 @@
 
 # Questions completed 
 
-- [x] Two Sum
+- [x] 1. Two Sum
 - [ ] 2. Valid Parentheses
