@@ -18,3 +18,5 @@
 * use of dictionaires/maps
 * keyerror in dictionaries
 * has_key() built-in function is removed from python3
+* linked list implementation in python
+* merge sort - top down approach
