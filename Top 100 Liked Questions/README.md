@@ -6,7 +6,8 @@
 
 :white_check_mark: 1. Two Sum </br>
 :white_check_mark: 2. Valid Parentheses </br>
-:black_square_button: 3. Merge Two Sorted Lists </br>
+:white_check_mark: 3. Merge Two Sorted Lists </br>
+:black_square_button: 4. Maximum Subarray </br>
 
 # Concepts Learned
 
