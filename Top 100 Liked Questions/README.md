@@ -7,7 +7,8 @@
 :white_check_mark: 1. Two Sum </br>
 :white_check_mark: 2. Valid Parentheses </br>
 :white_check_mark: 3. Merge Two Sorted Lists </br>
-:black_square_button: 4. Maximum Subarray </br>
+:white_check_mark: 4. Maximum Subarray </br>
+:black_square_button: 5. Climbing Stairs </br>
 
 # Concepts Learned
 
@@ -20,3 +21,5 @@
 * has_key() built-in function is removed from python3
 * linked list implementation in python
 * merge sort - top down approach
+* dp - bottom up approach
+* append is used to add elements to list in python
